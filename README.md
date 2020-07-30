@@ -10,6 +10,11 @@ https://ayaxxchanz-simple-custom.blogspot.com/
 - Live search
 - No footer credit
 
+## Cons
+- Not SEO ready
+- Probably messy code
+- Not responsive. YET.
+
 ## Installation
 Blogger > Theme > Restore > Upload .xml file
 
