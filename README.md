@@ -6,6 +6,7 @@ https://ayaxxchanz-simple-custom.blogspot.com/
 
 ## Feature
 - Simple and minimalist
+- Fast loading
 - List many blog post in homepage
 - Live search
 - No footer credit
