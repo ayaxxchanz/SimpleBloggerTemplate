@@ -19,4 +19,6 @@ https://ayaxxchanz-simple-custom.blogspot.com/
 Blogger > Theme > Restore > Upload .xml file
 
 ## Other notes
-May contain error but will be improved from time to time.
+- Because it's not responsive, make sure to choose *Theme > Choose Mobile Theme > Custom Mobile Theme > Custom*
+OR *Theme > Choose Mobile Theme > Desktop*
+- May contain error but will be improved from time to time.
