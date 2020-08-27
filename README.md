@@ -10,16 +10,18 @@ https://ayaxxchanz-simple-custom.blogspot.com/
 - List many blog post in homepage
 - Live search
 - No footer credit
+- Lazy load image
 
 ## Cons
 - Not SEO ready
 - Probably messy code
-- Not responsive. YET.
 
 ## Installation
 Blogger > Theme > Restore > Upload .xml file
 
 ## Other notes
-- Because it's not responsive, make sure to choose *Theme > Choose Mobile Theme > Custom Mobile Theme > Custom*
-OR *Theme > Choose Mobile Theme > Desktop*
+- Make sure to choose *Theme > Choose Mobile Theme > Desktop*
 - May contain error but will be improved from time to time.
+- For search function, change https://YOUR-BLOG.blogspot.com/ to your blog url.
+- For lazy loading image, use **data-src**. Example:
+`<img data-src="https://i.imgur.com/eORxspu.jpg" />`
