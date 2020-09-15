@@ -23,4 +23,5 @@ Blogger > Theme > Restore > Upload .xml file
 - Make sure to choose **Theme** > **Choose Mobile Theme** > **Desktop**
 - Change date format and number of post in **Layout** > **Blog Posts** > **Edit**
 - Change navigation link in **Theme** > **Edit HTML** 
+- Use **class="btn"** to display download button. Example: ```<a class="btn" href="#">Download</a><a class="btn" href="#">Download</a>```
 - May contain error but will be improved from time to time.
