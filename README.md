@@ -2,9 +2,9 @@
 A simple template inspired by torrent sites customized from Blogger's default template. Made specifically for 'sharer' or 'uploader'.
 
 ## Demo
-https://simplecustomv2-light.blogspot.com/
-https://simplecustomv2-dark.blogspot.com/
-https://ayaxxchanz-simple-custom.blogspot.com/
+- https://simplecustomv2-light.blogspot.com/
+- https://simplecustomv2-dark.blogspot.com/
+- https://ayaxxchanz-simple-custom.blogspot.com/
 
 ## Feature
 - Simple and minimalist
