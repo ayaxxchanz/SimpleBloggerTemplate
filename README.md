@@ -8,21 +8,17 @@ https://ayaxxchanz-simple-custom.blogspot.com/
 - Simple and minimalist
 - Fast loading
 - List many blog post in homepage
-- Live search
 - No footer credit
-- Lazy load image
 
 ## Cons
 - Not SEO ready
-- Probably messy code
+- Messy code
 
 ## Installation
 Blogger > Theme > Restore > Upload .xml file
 
 ## Other notes
 - Make sure to choose **Theme** > **Choose Mobile Theme** > **Desktop**
-- For search function, change https://YOUR-BLOG.blogspot.com/ to your blog url.
-- For lazy loading image, use **data-src**. Example:
-`<img data-src="https://i.imgur.com/eORxspu.jpg" />`
 - Change date format and number of post in **Layout** > **Blog Posts** > **Edit**
+- Change navigation link in **Theme** > **Edit HTML** 
 - May contain error but will be improved from time to time.
