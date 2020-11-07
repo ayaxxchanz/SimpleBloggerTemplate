@@ -27,6 +27,7 @@ Blogger > Theme > Restore > Upload .xml file
 - Make sure to choose **Theme** > **Choose Mobile Theme** > **Desktop**
 - Change date format and number of post in **Layout** > **Blog Posts** > **Edit**
 - Change navigation link in **Theme** > **Edit HTML** 
+- Change **JST** (Japan Standard Time) in the template to the timezone you use for your blog
 - Use **class="btn"** and **id="download"** to display download button.
 
 Example: ```<a class="btn" id="download" href="#">Download</a>```
