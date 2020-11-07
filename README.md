@@ -1,3 +1,6 @@
+![alt text](https://github.com/ayaxxchanz/SimpleBloggerTemplate/blob/master/screenshots/v3.jpg)
+![alt text](https://github.com/ayaxxchanz/SimpleBloggerTemplate/blob/master/screenshots/v3-2.jpg)
+
 # SimpleBloggerTemplate
 A simple template inspired by torrent sites customized from Blogger's default template. Made specifically for 'sharer' or 'uploader'.
 
