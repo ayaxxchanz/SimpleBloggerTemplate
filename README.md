@@ -5,7 +5,7 @@
 A simple template inspired by torrent sites customized from Blogger's default template. Made specifically for 'sharer' or 'uploader'.
 
 ## Demo
-- V3: https://simplecustomv3.blogspot.com/
+- V3: https://simplecustomv3.blogspot.com/ (recommended)
 - V2: https://simplecustomv2-light.blogspot.com/
 - V2: https://simplecustomv2-dark.blogspot.com/
 - V1: https://ayaxxchanz-simple-custom.blogspot.com/
