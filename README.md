@@ -18,6 +18,7 @@ V3: https://simplecustomv3.blogspot.com/
 
 ## Cons
 - Messy code
+- May contain error but will be improved from time to time
 
 ## Installation
 Blogger > Theme > Restore > Upload .xml file
@@ -73,4 +74,3 @@ Example: ```<a class="btn" id="download" href="#">Download</a>```
   </div>
   ```
 - You can insert ad at the bottom of each post by replacing the code inside ```<div class='banner-f'>``` and ```<div class='square-f'>``` tag.
-- May contain error but will be improved from time to time.
