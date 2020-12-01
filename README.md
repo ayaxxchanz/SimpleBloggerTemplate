@@ -68,5 +68,12 @@ Example: ```<a class="btn" id="download" href="#">Download</a>```
     ```
     ![alt text](https://github.com/ayaxxchanz/SimpleBloggerTemplate/blob/master/screenshots/v3-4.jpg)  
 
+- To embed YouTube video, copy embed code and paste inside ```<div class="video"></div>```.  
+  Example:  
+  ```
+  <div class="video">
+    <embed code>
+  </div>
+  ```
 - You can insert ad at the bottom of each post by replacing the code inside ```<div class='banner-f'>``` and ```<div class='square-f'>``` tag.
 - May contain error but will be improved from time to time.
