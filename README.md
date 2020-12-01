@@ -1,9 +1,13 @@
-![alt text](https://github.com/ayaxxchanz/SimpleBloggerTemplate/blob/master/screenshots/v3.jpg)
-![alt text](https://github.com/ayaxxchanz/SimpleBloggerTemplate/blob/master/screenshots/v3-2.jpg)
-![alt text](https://github.com/ayaxxchanz/SimpleBloggerTemplate/blob/master/screenshots/v3-3.jpg)
-
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/ayaxxchanz/SimpleBloggerTemplate/v3.1.0/total.svg)](https://github.com/ayaxxchanz/SimpleBloggerTemplate/releases/tag/v3.1.0)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/AliyaHudi)
+
+<a href="https://raw.githubusercontent.com/ayaxxchanz/SimpleBloggerTemplate/master/screenshots/v3.jpg" target="_blank"><img src="https://github.com/ayaxxchanz/SimpleBloggerTemplate/blob/master/screenshots/v3.jpg" width="600px"></img></a>
+
+<a href="https://raw.githubusercontent.com/ayaxxchanz/SimpleBloggerTemplate/master/screenshots/gif0.gif" target="_blank"><img src="https://github.com/ayaxxchanz/SimpleBloggerTemplate/blob/master/screenshots/gif0.gif" width="600px"></img></a>
+
+<a href="https://raw.githubusercontent.com/ayaxxchanz/SimpleBloggerTemplate/master/screenshots/v3-5.jpg" target="_blank"><img src="https://github.com/ayaxxchanz/SimpleBloggerTemplate/blob/master/screenshots/v3-5.jpg" width="600px"></img></a>
+
+<a href="https://raw.githubusercontent.com/ayaxxchanz/SimpleBloggerTemplate/master/screenshots/v3-3.jpg" target="_blank"><img src="https://github.com/ayaxxchanz/SimpleBloggerTemplate/blob/master/screenshots/v3-3.jpg" width="600px"></img></a>
 
 # Simple Blogger Template
 A simple template inspired by torrent sites customized from Blogger's default template.
