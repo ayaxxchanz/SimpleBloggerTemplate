@@ -9,7 +9,7 @@
 A simple template inspired by torrent sites customized from Blogger's default template.
 
 ## Demo
-- V3: https://simplecustomv3.blogspot.com/ (recommended)
+V3: https://simplecustomv3.blogspot.com/
 
 ## Feature
 - Simple and minimalist
