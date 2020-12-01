@@ -6,7 +6,7 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/AliyaHudi)
 
 # Simple Blogger Template
-A simple template inspired by torrent sites customized from Blogger's default template. Made specifically for 'sharer' or 'uploader'.
+A simple template inspired by torrent sites customized from Blogger's default template.
 
 ## Demo
 - V3: https://simplecustomv3.blogspot.com/ (recommended)
