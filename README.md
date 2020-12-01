@@ -10,9 +10,6 @@ A simple template inspired by torrent sites customized from Blogger's default te
 
 ## Demo
 - V3: https://simplecustomv3.blogspot.com/ (recommended)
-- V2: https://simplecustomv2-light.blogspot.com/
-- V2: https://simplecustomv2-dark.blogspot.com/
-- V1: https://ayaxxchanz-simple-custom.blogspot.com/
 
 ## Feature
 - Simple and minimalist
