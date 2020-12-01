@@ -54,7 +54,7 @@ Example: ```<a class="btn" id="download" href="#">Download</a>```
     ![alt text](https://github.com/ayaxxchanz/SimpleBloggerTemplate/blob/master/screenshots/gif1.gif)
 
     - **Version 2**  
-    Instruction: Add class ```table-responsive``` to table tag and ```data-label="TH-NAME"``` in table data tag (Replace ```TH-NAME``` with your table heading text)
+    Instruction: Add class ```table-responsive``` to table tag and ```data-label="TH-NAME"``` in table data tag (Replace ```TH-NAME``` with your table heading text). This is for **VERTICAL TABLE ONLY**  
     Example:
     ```
     <table class="table-responsive">
