@@ -19,6 +19,7 @@ V3: https://simplecustomv3.blogspot.com/
 - Simple and minimalist
 - Fast loading
 - List many blog post in homepage
+- Toggle dark mode
 
 ## Cons
 - Messy code
